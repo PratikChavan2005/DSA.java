@@ -1,30 +1,35 @@
-import java.util.*;
-import java.util.Stack;
 class Solution {
-    public boolean isValid(String s) {
-        
-        Stack<Character> stack = new Stack<>();
+    public boolean sumGame(String s) {
+        int n=s.length();
+        int half=n/2;
 
-            for(char ch:s.toCharArray()){
+        int leftSum=0;
+        int rightSum=0;
 
-                    if(ch == '{' || ch=='[' || ch=='('){
-                        stack.push(ch);
-                    }
-                    else {
-                        if(stack.isEmpty()){
-                            return false;
-                        }
+        int leftQ=0;
+        int rightQ=0;
 
-                        char top=stack.pop();
-
-                        if(ch==')' && top!='(' || 
-                            ch=='}' && top!='{' || 
-                            ch==']' && top!='[' ){
-                                return false;
-                            }
-                            
-                    }
+        for(int i=0;i<half;i++){
+                char ch=s.charAt(i);
+                if(ch == '?'){
+                    leftQ++;
+                }
+                else {
+                    leftSum+=s.charAt(i)-'0';
+                }
+        }
+        for(int i=half;i<n;i++){
+            char ch=s.charAt(i);
+            if(ch == '?'){
+                rightQ++;
             }
-            return stack.isEmpty();
+            else {
+                rightSum+=s.charAt(i)-'0';
+            }
+        }
+        if(leftQ!=rightQ){
+            return true;
+        }
+        return leftSum!=rightSum;
     }
 }
