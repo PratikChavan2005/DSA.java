@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/PratikChavan2005/DSA.java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
