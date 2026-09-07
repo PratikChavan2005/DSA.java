@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PratikChavan2005/DSA.java/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
