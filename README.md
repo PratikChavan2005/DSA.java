@@ -7,10 +7,12 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/PratikChavan2005/DSA.java/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/PratikChavan2005/DSA.java/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
