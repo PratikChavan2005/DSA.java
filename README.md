@@ -34,6 +34,7 @@
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
+| [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@
 | [0062-unique-paths](https://github.com/PratikChavan2005/DSA.java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PratikChavan2005/DSA.java/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
