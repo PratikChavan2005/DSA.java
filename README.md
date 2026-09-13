@@ -37,6 +37,7 @@
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
