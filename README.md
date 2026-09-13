@@ -9,6 +9,7 @@
 | [0155-min-stack](https://github.com/PratikChavan2005/DSA.java/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/PratikChavan2005/DSA.java/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
 ## Design
@@ -37,6 +38,7 @@
 | [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/PratikChavan2005/DSA.java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
