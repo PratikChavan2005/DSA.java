@@ -39,6 +39,7 @@
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,8 +122,10 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
