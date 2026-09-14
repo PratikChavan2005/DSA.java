@@ -75,6 +75,7 @@
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/PratikChavan2005/DSA.java/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -128,4 +129,8 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PratikChavan2005/DSA.java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
