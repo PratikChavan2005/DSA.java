@@ -27,6 +27,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PratikChavan2005/DSA.java/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/PratikChavan2005/DSA.java/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -59,6 +60,7 @@
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/PratikChavan2005/DSA.java/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -72,6 +74,7 @@
 | [0070-climbing-stairs](https://github.com/PratikChavan2005/DSA.java/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
