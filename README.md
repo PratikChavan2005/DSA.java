@@ -13,6 +13,7 @@
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/PratikChavan2005/DSA.java/tree/master/1544-make-the-string-great) |
 ## Design
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/PratikChavan2005/DSA.java/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
 |  |
 | ------- |
