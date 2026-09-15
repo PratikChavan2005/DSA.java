@@ -9,13 +9,13 @@ class Solution {
             if (ch == '(') {
                 depth++;
 
-                // Not an outer '('
+                
                 if (depth > 1) {
                     ans.append(ch);
                 }
             } 
             else {
-                // Not an outer ')'
+               
                 if (depth > 1) {
                     ans.append(ch);
                 }
