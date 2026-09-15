@@ -12,6 +12,7 @@
 | [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
+| [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PratikChavan2005/DSA.java/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
