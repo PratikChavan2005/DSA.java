@@ -14,6 +14,7 @@
 | [0901-online-stock-span](https://github.com/PratikChavan2005/DSA.java/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/PratikChavan2005/DSA.java/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/PratikChavan2005/DSA.java/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0027-remove-element](https://github.com/PratikChavan2005/DSA.java/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/PratikChavan2005/DSA.java/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/PratikChavan2005/DSA.java/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/PratikChavan2005/DSA.java/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
