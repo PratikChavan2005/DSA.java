@@ -69,6 +69,7 @@
 | [0027-remove-element](https://github.com/PratikChavan2005/DSA.java/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -153,4 +155,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
