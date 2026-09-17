@@ -39,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PratikChavan2005/DSA.java/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/PratikChavan2005/DSA.java/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
