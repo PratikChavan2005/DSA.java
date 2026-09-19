@@ -59,6 +59,7 @@
 | [0062-unique-paths](https://github.com/PratikChavan2005/DSA.java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PratikChavan2005/DSA.java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/PratikChavan2005/DSA.java/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
@@ -72,6 +73,7 @@
 | [0075-sort-colors](https://github.com/PratikChavan2005/DSA.java/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/PratikChavan2005/DSA.java/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
