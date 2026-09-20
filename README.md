@@ -52,6 +52,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/PratikChavan2005/DSA.java/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/PratikChavan2005/DSA.java/tree/master/2000-reverse-prefix-of-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +171,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PratikChavan2005/DSA.java/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
