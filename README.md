@@ -78,6 +78,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -115,6 +116,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
 | ------- |
