@@ -44,6 +44,7 @@
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
