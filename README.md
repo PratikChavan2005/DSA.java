@@ -77,6 +77,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PratikChavan2005/DSA.java/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PratikChavan2005/DSA.java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 ## Geometry
