@@ -79,6 +79,7 @@
 | [0198-house-robber](https://github.com/PratikChavan2005/DSA.java/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/PratikChavan2005/DSA.java/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/PratikChavan2005/DSA.java/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
