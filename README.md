@@ -39,6 +39,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PratikChavan2005/DSA.java/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/PratikChavan2005/DSA.java/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PratikChavan2005/DSA.java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PratikChavan2005/DSA.java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PratikChavan2005/DSA.java/tree/master/0070-climbing-stairs) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
