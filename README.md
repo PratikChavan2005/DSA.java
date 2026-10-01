@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PratikChavan2005/DSA.java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/PratikChavan2005/DSA.java/tree/master/0155-min-stack) |
@@ -41,6 +42,7 @@
 | [0005-longest-palindromic-substring](https://github.com/PratikChavan2005/DSA.java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/PratikChavan2005/DSA.java/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
@@ -172,6 +174,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
