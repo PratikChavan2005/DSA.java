@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PratikChavan2005/DSA.java/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PratikChavan2005/DSA.java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/PratikChavan2005/DSA.java/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PratikChavan2005/DSA.java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PratikChavan2005/DSA.java/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/PratikChavan2005/DSA.java/tree/master/0075-sort-colors) |
