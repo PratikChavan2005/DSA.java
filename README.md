@@ -44,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/PratikChavan2005/DSA.java/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PratikChavan2005/DSA.java/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/PratikChavan2005/DSA.java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PratikChavan2005/DSA.java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -196,4 +199,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/3498-reverse-degree-of-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
