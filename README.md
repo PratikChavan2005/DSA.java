@@ -33,6 +33,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PratikChavan2005/DSA.java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/PratikChavan2005/DSA.java/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/PratikChavan2005/DSA.java/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/PratikChavan2005/DSA.java/tree/master/2000-reverse-prefix-of-word) |
@@ -49,6 +50,7 @@
 | [0058-length-of-last-word](https://github.com/PratikChavan2005/DSA.java/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/PratikChavan2005/DSA.java/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/PratikChavan2005/DSA.java/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PratikChavan2005/DSA.java/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
