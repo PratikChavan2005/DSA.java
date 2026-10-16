@@ -42,6 +42,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/PratikChavan2005/DSA.java/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/PratikChavan2005/DSA.java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0020-valid-parentheses) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/PratikChavan2005/DSA.java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/PratikChavan2005/DSA.java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PratikChavan2005/DSA.java/tree/master/0062-unique-paths) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PratikChavan2005/DSA.java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PratikChavan2005/DSA.java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/PratikChavan2005/DSA.java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/PratikChavan2005/DSA.java/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0205-isomorphic-strings) |
