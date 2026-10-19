@@ -99,6 +99,7 @@
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PratikChavan2005/DSA.java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -152,6 +153,7 @@
 | [0035-search-insert-position](https://github.com/PratikChavan2005/DSA.java/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PratikChavan2005/DSA.java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 | [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PratikChavan2005/DSA.java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Geometry
 |  |
 | ------- |
