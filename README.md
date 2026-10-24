@@ -63,6 +63,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/PratikChavan2005/DSA.java/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/PratikChavan2005/DSA.java/tree/master/2000-reverse-prefix-of-word) |
+| [2409-count-days-spent-together](https://github.com/PratikChavan2005/DSA.java/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/PratikChavan2005/DSA.java/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/PratikChavan2005/DSA.java/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
