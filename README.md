@@ -48,6 +48,7 @@
 | [0014-longest-common-prefix](https://github.com/PratikChavan2005/DSA.java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PratikChavan2005/DSA.java/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/PratikChavan2005/DSA.java/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PratikChavan2005/DSA.java/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PratikChavan2005/DSA.java/tree/master/0071-simplify-path) |
@@ -110,6 +111,7 @@
 | [0007-reverse-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/PratikChavan2005/DSA.java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/PratikChavan2005/DSA.java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PratikChavan2005/DSA.java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PratikChavan2005/DSA.java/tree/master/0070-climbing-stairs) |
@@ -219,6 +221,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0043-multiply-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
