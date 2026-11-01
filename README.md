@@ -102,6 +102,7 @@
 | [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PratikChavan2005/DSA.java/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PratikChavan2005/DSA.java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
@@ -123,6 +124,7 @@
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PratikChavan2005/DSA.java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/PratikChavan2005/DSA.java/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/PratikChavan2005/DSA.java/tree/master/2409-count-days-spent-together) |
