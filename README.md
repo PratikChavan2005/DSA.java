@@ -133,6 +133,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PratikChavan2005/DSA.java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/PratikChavan2005/DSA.java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PratikChavan2005/DSA.java/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0394-decode-string) |
@@ -242,4 +243,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PratikChavan2005/DSA.java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PratikChavan2005/DSA.java/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PratikChavan2005/DSA.java/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
