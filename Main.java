@@ -1,41 +1,38 @@
-package org.example;
+public class Main {
 
-class Node{
-    int data ;
-    Node next ;
+    static class VersionControl {
+        int badVersion = 4;
 
-    Node(int data){
-        this.data=data ;
-        this.next=null ;
+        boolean isBadVersion(int version) {
+            return version >= badVersion;
+        }
     }
-}
 
-public class Main{
+    static class Solution extends VersionControl {
+        public int firstBadVersion(int n) {
+            int left = 1;
+            int right = n;
 
-    public static void main(String[] args){
+            while (left < right) {
+                int mid = left + (right - left) / 2;
 
-            int[] arr = {2,1,4,5,3,7,8};
-            int node = 10;
-
-            Node head = new Node(arr[0]);
-            Node curr = head;
-
-            for(int i = 1;i< arr.length;i++){
-                Node newNode = new Node(arr[i]);
-                curr.next=newNode;
-                curr=newNode;
+                if (isBadVersion(mid)) {
+                    right = mid;
+                } else {
+                    left = mid + 1;
+                }
             }
 
-            if(curr.next==null){
-                Node newNode = new Node(node);
-                curr.next = newNode;
-            }
+            return left;
+        }
+    }
 
-            Node temp = head;
+    public static void main(String[] args) {
+        Solution solution = new Solution();
 
-            while (temp!=null){
-                System.out.print(temp.data + "->");
-                temp=temp.next;
-            }
+        int n = 10;
+        int result = solution.firstBadVersion(n);
+
+        System.out.println("First bad version: " + result);
     }
 }

@@ -1,49 +1,40 @@
-import java.util.*;
-
-public class NumberPattern{
-    
-    public static void printPattern(int n)
+import java.util.Scanner;
+ 
+public class NumberPattern
+{
+    public static void main(String[] args)
     {
-        int i, j;
-        
-        // Printing the upper part
-        for (i = 1; i <= n; i++) {
-            
-            // inner loop to print spaces.
-            for (j = 1; j < i; j++) {
+        Scanner sc = new Scanner(System.in);
+ 
+        //Taking rows value from the user
+ 
+        System.out.println("How many rows you want in this pattern?");
+ 
+        int rows = sc.nextInt();
+ 
+        System.out.println("Here is your pattern....!!!"); 
+ 
+        for (int i = rows; i >= 1; i--)
+        {
+            //Printing i spaces at the beginning of each row
+ 
+            for (int j = 1; j < i; j++)
+            {
                 System.out.print(" ");
             }
-            // inner loop to print value of j.
-            for (j = i; j <= n; j++) {
-                System.out.print(j + " ");
+ 
+            //Printing i to rows value at the end of each row
+ 
+            for (int j = i; j <= rows; j++)
+            {
+                System.out.print(j+" ");
             }
-
-            // printing new line for each row
+ 
             System.out.println();
         }
-
-        // Printing the lower part
-        for (i = n - 1; i >= 1; i--) {
-            
-            // inner loop to print spaces.
-            for (j = 1; j < i; j++) {
-                System.out.print(" ");
-            }
-            
-            // inner loop to print value of j.
-            for (j = i; j <= n; j++) {
-                System.out.print(j + " ");
-            }
-            
-            // printing new line for each row
-            System.out.println();
-        }
-    }
-
-    // Driver Function
-    public static void main(String args[])
-    {
-        int n = 6;
-        printPattern(n);
+ 
+        //Closing the resources
+ 
+        sc.close();
     }
 }
