@@ -109,6 +109,7 @@
 | [0704-binary-search](https://github.com/PratikChavan2005/DSA.java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/PratikChavan2005/DSA.java/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PratikChavan2005/DSA.java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PratikChavan2005/DSA.java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PratikChavan2005/DSA.java/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -205,6 +206,7 @@
 | [0242-valid-anagram](https://github.com/PratikChavan2005/DSA.java/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PratikChavan2005/DSA.java/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PratikChavan2005/DSA.java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PratikChavan2005/DSA.java/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Geometry
 |  |
 | ------- |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PratikChavan2005/DSA.java/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PratikChavan2005/DSA.java/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
