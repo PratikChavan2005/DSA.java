@@ -35,6 +35,7 @@
 | [0075-sort-colors](https://github.com/PratikChavan2005/DSA.java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PratikChavan2005/DSA.java/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PratikChavan2005/DSA.java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/PratikChavan2005/DSA.java/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikChavan2005/DSA.java/tree/master/0345-reverse-vowels-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/PratikChavan2005/DSA.java/tree/master/2000-reverse-prefix-of-word) |
@@ -193,6 +194,7 @@
 | [0013-roman-to-integer](https://github.com/PratikChavan2005/DSA.java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PratikChavan2005/DSA.java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/PratikChavan2005/DSA.java/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PratikChavan2005/DSA.java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/PratikChavan2005/DSA.java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PratikChavan2005/DSA.java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PratikChavan2005/DSA.java/tree/master/0219-contains-duplicate-ii) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PratikChavan2005/DSA.java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PratikChavan2005/DSA.java/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PratikChavan2005/DSA.java/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
