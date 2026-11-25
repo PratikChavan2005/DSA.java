@@ -7,18 +7,18 @@ class Solution {
         ListNode fast = dummy;
         ListNode slow = dummy;
 
-        
-        for (int i = 0; i <= n; i++) {
+        // Move fast pointer n steps ahead
+        for (int i = 0; i < n; i++) {
             fast = fast.next;
         }
 
-        
-        while (fast != null) {
+        // Move both pointers until fast reaches last node
+        while (fast.next != null) {
             fast = fast.next;
             slow = slow.next;
         }
 
-        
+        // Remove the nth node from the end
         slow.next = slow.next.next;
 
         return dummy.next;
